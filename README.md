@@ -1,2 +1,29 @@
 # CalcEngine
-A simple calculator built in C that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+A simple calculator application built using C.
+
+## 🚀 Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Continuous operation using loop
+- Error handling (division by zero)
+
+## 🛠️ Tech Used
+- C Programming Language
+
+## ▶️ How to Run
+1. Compile the code:
+   gcc calculator.c -o calc
+
+2. Run:
+   ./calc
+
+## 📌 Future Improvements
+- Scientific calculator
+- GUI version
+- More operations
+
+## 👨‍💻 Author
+Prakayush Kumar
